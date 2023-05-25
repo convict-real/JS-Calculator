@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(25, 25, 25);
+}
+
+#calculation-text {
+    color: rgb(225, 225, 225);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+#calculation-input {
+    color: rgb(225, 225, 225);
+    background-color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#calculation-button {
+    color: rgb(225, 225, 225);
+    background-color: rgb(40, 40, 40);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#watermark-text {
+    color: rgb(225, 225, 225);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
+
+#blade-discord-text {
+    color: rgb(225, 225, 225);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+}
